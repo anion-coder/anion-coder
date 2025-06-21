@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hey there! 👋 I’m Siddhanth from India — a developer who loves working across AI/ML, backend systems, and mobile apps  basically building things end-to-end that (hopefully) make life easier.<br>	•	🔭 I’m working as a developer who enjoys making machines think, servers run, and apps feel alive.<br>	•	📚 I’m currently learning how to scale ideas from side-projects to real-world impact.<br>	•	⚡ In my free time, you’ll find me exploring new tech stacks, brainstorming product ideas, or lost in code rabbit holes.<br><br>Building stuff that solves problems one bug at a time.<br><br>Let’s connect, collaborate, or break stuff (intentionally) and fix it together!</p>
+<p align="left">Hey there! 👋 I’m Siddhanth from India a developer who loves working across AI/ML, backend systems, and mobile apps  basically building things end-to-end that (hopefully) make life easier.<br>	•	🔭 I’m working as a developer who enjoys making machines think, servers run, and apps feel alive.<br>	•	📚 I’m currently learning how to scale ideas from side-projects to real-world impact.<br>	•	⚡ In my free time, you’ll find me exploring new tech stacks, brainstorming product ideas, or lost in code rabbit holes.<br><br>Building stuff that solves problems one bug at a time.<br><br>Let’s connect, collaborate, or break stuff (intentionally) and fix it together!</p>
 
 ###
 
